@@ -1,2 +1,0 @@
-# angularLearn
-Created with CodeSandbox
